@@ -1,0 +1,48 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",192 TV
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14124?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",AB1 HD
+http://185.71.64.167:80/307245103371/307245103371/81881?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",AB3 FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14142?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",ATV ANTWERPEN
+http://rv.therevenge.co:80/live/242424/242424/81861.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="Undefined",BE | Notele,Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="Local;Undefined",BE | TV Oost,TV Oost
+http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c8/01/37519/1/c175.png" group-title="Undefined",BEL Radio PROS (Webradio)
+https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",BX1
+http://rv.therevenge.co:80/live/242424/242424/81877.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",CANAL C
+http://rv.therevenge.co:80/live/242424/242424/81867.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",CAZ 2
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81895?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",CLUB RTL
+http://rv.therevenge.co:80/live/242424/242424/81883.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",CORONA VIRUS INFO
+http://rv.therevenge.co:80/565656/565656/83226?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="Music",City Music TV
+http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",ECLIPS TV
+http://rv.therevenge.co:80/live/242424/242424/81893.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",ELEVEN PRO LEAGUE 1 HD
+http://rv.therevenge.co:80/565656/565656/81845?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",ELEVEN PRO LEAGUE 2 HD
+http://rv.therevenge.co:80/565656/565656/83208?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",JIM JAM
+http://rv.therevenge.co:80/live/242424/242424/81889.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",LA DEUX
+http://rv.therevenge.co:80/live/242424/242424/81886.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",LES NEWS 24
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81868?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",PLAY SPORT 1 HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/46646?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",PLAY SPORTS 5 HD / MORE CINEMA
+http://rv.therevenge.co:80/565656/565656/81851?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",PROXIMUS 11 SPORT 1 HD
+http://rv.therevenge.co:80/565656/565656/81839?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Undefined",ZES
+http://rv.therevenge.co:80/565656/565656/83218?checkedby:hlscat.com
